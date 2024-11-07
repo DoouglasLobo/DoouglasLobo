@@ -56,3 +56,4 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=14b8a6&height=120&section=footer"/>
 
+![snake gif](https://github.com/DoouglasLobo/DoouglasLobo/blob/output/github-contribution-grid-snake.gif)
